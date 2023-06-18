@@ -1,0 +1,36 @@
+.buttonSecondary {
+  background-color: #1d1f25;
+  border: none;
+  border-radius: 50px;
+  padding: 13px 24px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: rgba(255, 255, 255, 0.6);
+  margin-right: 24px;
+
+  margin-bottom: 40px;
+  
+}
+
+.buttonPrimary {
+    margin-bottom: 40px;
+    color: #141518;
+    border: none;
+    border-radius: 50px;
+    padding: 13px 24px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+  
+    background: #FFBB29;
+    margin-right: 24px;
+  }
+  

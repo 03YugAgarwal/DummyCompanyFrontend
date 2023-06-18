@@ -1,0 +1,16 @@
+.home {
+  background: #141518;
+  padding: 40px;
+}
+
+.cardDiv{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+body{
+    background: #141518;
+}
+

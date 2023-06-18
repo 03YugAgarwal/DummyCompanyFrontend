@@ -1,0 +1,67 @@
+nav {
+  background: #1d1f25;
+  padding: 30px 40px;
+  font-family: 'Clash Display';
+  /* border-bottom: 1px solid white; */
+}
+
+.Nav{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.NavTitle {
+  color: #ffbb29;
+  /* padding: 36px; */
+  font-size: 24px;
+  display: inline;
+}
+ul {
+  display: inline;
+  list-style-type: none;
+}
+
+li {
+    display: inline;
+    font-size: 14px;
+    line-height: 21px;
+    margin: 21px;
+    font-family: 'Poppins';
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    opacity: 0.6;
+}
+
+.blog{
+    color: #FFBB29;
+    opacity: 1;
+}
+
+hr{
+    margin: 0;
+    opacity: 0.15;
+    border: 1px solid white;
+}
+
+.NavEndDiv{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.NavEndImg{
+  margin-left: 40px;
+  fill: black;
+}
+
+.notificationDot{
+  position:relative;
+  top: -10px;
+  left: -5px;
+}

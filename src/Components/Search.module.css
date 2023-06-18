@@ -1,0 +1,79 @@
+.Search {
+  height: 190px;
+  background: #1d1f25;
+  padding-top: 40px;
+  padding-left: 40px;
+}
+
+h1 {
+  padding-top: 10px;
+  margin: 0px;
+  font-size: 40px;
+  color: white;
+  font-family: "Poppins";
+  font-weight: 600;
+  line-height: 60px;
+  font-style: normal;
+  margin-bottom: 40px;
+}
+
+input {
+  width: 410px;
+  height: 45px;
+  left: 40px;
+  top: 243px;
+
+  background: #282c38;
+  border-radius: 6px;
+  border: none;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  padding-left: 60px;
+
+  color: white;
+
+}
+
+input::placeholder {
+  color: #757b8c;
+}
+.searchNormal {
+  position: absolute;
+  margin: 13px auto 12px 24px;
+}
+
+.flexDiv{
+    display: flex;
+    flex-direction: rows;
+
+    justify-content: space-between;
+
+}
+
+.button {
+    border: none;
+    background-color: #282c38;
+    width: 45px;
+    height: 45px;
+    /* position: absolute; */
+    margin-top: 1px;
+    border-radius: 5px;
+    margin-right: 16px;
+
+}
+.buttonP{
+    border: none;
+    background-color: #FFBB29;
+    width: 43px;
+    height: 42px;
+    /* position: absolute; */
+    margin-top: 1px;
+
+    border-radius: 5px;
+
+    margin-right: 40px;
+}
